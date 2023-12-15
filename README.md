@@ -22,6 +22,6 @@
         return super.onOptionsItemSelected(item)
     }
 
-### Icon Menu 를 생성 후 Toolbar 와 연결시킴.
-### inflate() 함수는 xml 파일을 view 와 연동시켜줌.( = 필요 인자 2개 )
-### ( ActivityBinding 은 관습적(?)으로 쓰기에 인자 1개만 써도 됨 ) 
+#### Icon Menu 를 생성 후 Toolbar 와 연결시킴.
+#### inflate() 함수는 xml 파일을 view 와 연동시켜줌.( = 필요 인자 2개 )
+#### ( ActivityBinding 은 관습적(?)으로 쓰기에 인자 1개만 써도 됨 ) 
